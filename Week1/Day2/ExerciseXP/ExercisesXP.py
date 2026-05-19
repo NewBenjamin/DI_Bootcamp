@@ -240,7 +240,3 @@ while True:
         total_cost += 15
 
 print("Total ticket cost:", total_cost)
-
-git add .
-
-git commit -m "Add Python exercises"

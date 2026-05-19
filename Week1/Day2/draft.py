@@ -6,4 +6,3 @@ while current_number <= 5:    # tant que <= 5
          # j'incrémente : sinon boucle infinie !
          # j'incrémente : sinon boucle infinie !
 
-p
