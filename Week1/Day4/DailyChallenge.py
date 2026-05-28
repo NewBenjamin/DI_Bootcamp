@@ -1,3 +1,4 @@
+
 menu = {
     "espresso": 7.0,
     "latte": 12.0,
