@@ -240,3 +240,4 @@ while True:
         total_cost += 15
 
 print("Total ticket cost:", total_cost)
+

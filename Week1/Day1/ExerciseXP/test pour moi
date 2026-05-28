@@ -1,0 +1,7 @@
+name = input("Ton nom : ")
+if len(name) < 5:
+    print("Nom trop court")
+else:
+    print("Nom long")
+
+
